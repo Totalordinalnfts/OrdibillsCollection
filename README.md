@@ -111,7 +111,7 @@ Our vision unfolds quarter by quarter, starting in Q3 2024. Here’s the excitin
 
 ## 5. Team  
 - **@totalordinalnft**: Lead designer, tech expert, and key contributor. 🎨⚙️  
-- **@khanwar**: Technical and design support, pushing the project forward. 💪  
+- **@khanwarx**: Technical and design support, pushing the project forward. 💪  
 
 ---
 
@@ -132,6 +132,6 @@ Our vision unfolds quarter by quarter, starting in Q3 2024. Here’s the excitin
 
 ## 8. Contact  
 - Follow us on: **@totalordinalnft** on X. 📲  
-- Join the community: (Discord or other links TBD).  
+- Join the community: (https://discord.gg/Fd6u3nHu)  
 
 **Make history with OrdiBillsCollection!** 🚀  
