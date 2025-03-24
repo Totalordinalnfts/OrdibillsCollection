@@ -19,10 +19,6 @@ We’re a **non-profit NFT community** 💖: Every cent we raise goes straight b
 - **Platform:** Bitcoin Blockchain (powered by Ordinals technology for NFT inscription).  
 - **Theme:** Digitized historical and rare banknotes as NFTs.  
 
-**Creative & Technical Team:**  
-- **@totalordinalnft**: Lead designer and core collaborator. 🎨  
-- **@khanwarx**: Technical and design team member. ⚙️  
-
 ---
 
 ## 3. Roadmap  
