@@ -21,7 +21,7 @@ We’re a **non-profit NFT community** 💖: Every cent we raise goes straight b
 
 **Creative & Technical Team:**  
 - **@totalordinalnft**: Lead designer and core collaborator. 🎨  
-- **@khanwar**: Technical and design team member. ⚙️  
+- **@khanwarx**: Technical and design team member. ⚙️  
 
 ---
 
