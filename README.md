@@ -16,7 +16,7 @@ We’re a **non-profit NFT community** 💖: Every cent we raise goes straight b
 
 ## 2. Collection Details  
 - **Total NFTs:** 5,000 unique banknotes.  
-- **Platform:** Bitcoin Blockchain (powered by Ordinals technology for NFT inscription).  
+- **Platform:**BTC.  
 - **Theme:** Digitized historical and rare banknotes as NFTs.  
 
 ---
